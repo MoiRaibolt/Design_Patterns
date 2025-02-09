@@ -1,0 +1,14 @@
+C:\Users\Informática\Downloads\Design Patterns\builder_pattern\CSharp\FaculdadeVINCIT.DesignPatterns.BulderPattern\bin\Debug\net9.0\FaculdadeVINCIT.DesignPatterns.BulderPattern.exe
+C:\Users\Informática\Downloads\Design Patterns\builder_pattern\CSharp\FaculdadeVINCIT.DesignPatterns.BulderPattern\bin\Debug\net9.0\FaculdadeVINCIT.DesignPatterns.BulderPattern.deps.json
+C:\Users\Informática\Downloads\Design Patterns\builder_pattern\CSharp\FaculdadeVINCIT.DesignPatterns.BulderPattern\bin\Debug\net9.0\FaculdadeVINCIT.DesignPatterns.BulderPattern.runtimeconfig.json
+C:\Users\Informática\Downloads\Design Patterns\builder_pattern\CSharp\FaculdadeVINCIT.DesignPatterns.BulderPattern\bin\Debug\net9.0\FaculdadeVINCIT.DesignPatterns.BulderPattern.dll
+C:\Users\Informática\Downloads\Design Patterns\builder_pattern\CSharp\FaculdadeVINCIT.DesignPatterns.BulderPattern\bin\Debug\net9.0\FaculdadeVINCIT.DesignPatterns.BulderPattern.pdb
+C:\Users\Informática\Downloads\Design Patterns\builder_pattern\CSharp\FaculdadeVINCIT.DesignPatterns.BulderPattern\obj\Debug\net9.0\FaculdadeVINCIT.DesignPatterns.BulderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Informática\Downloads\Design Patterns\builder_pattern\CSharp\FaculdadeVINCIT.DesignPatterns.BulderPattern\obj\Debug\net9.0\FaculdadeVINCIT.DesignPatterns.BulderPattern.AssemblyInfoInputs.cache
+C:\Users\Informática\Downloads\Design Patterns\builder_pattern\CSharp\FaculdadeVINCIT.DesignPatterns.BulderPattern\obj\Debug\net9.0\FaculdadeVINCIT.DesignPatterns.BulderPattern.AssemblyInfo.cs
+C:\Users\Informática\Downloads\Design Patterns\builder_pattern\CSharp\FaculdadeVINCIT.DesignPatterns.BulderPattern\obj\Debug\net9.0\FaculdadeVINCIT.DesignPatterns.BulderPattern.csproj.CoreCompileInputs.cache
+C:\Users\Informática\Downloads\Design Patterns\builder_pattern\CSharp\FaculdadeVINCIT.DesignPatterns.BulderPattern\obj\Debug\net9.0\FaculdadeVINCIT.DesignPatterns.BulderPattern.dll
+C:\Users\Informática\Downloads\Design Patterns\builder_pattern\CSharp\FaculdadeVINCIT.DesignPatterns.BulderPattern\obj\Debug\net9.0\refint\FaculdadeVINCIT.DesignPatterns.BulderPattern.dll
+C:\Users\Informática\Downloads\Design Patterns\builder_pattern\CSharp\FaculdadeVINCIT.DesignPatterns.BulderPattern\obj\Debug\net9.0\FaculdadeVINCIT.DesignPatterns.BulderPattern.pdb
+C:\Users\Informática\Downloads\Design Patterns\builder_pattern\CSharp\FaculdadeVINCIT.DesignPatterns.BulderPattern\obj\Debug\net9.0\FaculdadeVINCIT.DesignPatterns.BulderPattern.genruntimeconfig.cache
+C:\Users\Informática\Downloads\Design Patterns\builder_pattern\CSharp\FaculdadeVINCIT.DesignPatterns.BulderPattern\obj\Debug\net9.0\ref\FaculdadeVINCIT.DesignPatterns.BulderPattern.dll

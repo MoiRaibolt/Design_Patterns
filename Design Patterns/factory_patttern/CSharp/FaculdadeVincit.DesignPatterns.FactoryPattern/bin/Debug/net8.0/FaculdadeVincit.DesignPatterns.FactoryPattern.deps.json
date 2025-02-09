@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FaculdadeVincit.DesignPatterns.FactoryPattern/1.0.0": {
+        "runtime": {
+          "FaculdadeVincit.DesignPatterns.FactoryPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FaculdadeVincit.DesignPatterns.FactoryPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

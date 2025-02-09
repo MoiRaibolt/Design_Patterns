@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "FaculdadeVINCIT.DesignPatterns.BulderPattern/1.0.0": {
+        "runtime": {
+          "FaculdadeVINCIT.DesignPatterns.BulderPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FaculdadeVINCIT.DesignPatterns.BulderPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
