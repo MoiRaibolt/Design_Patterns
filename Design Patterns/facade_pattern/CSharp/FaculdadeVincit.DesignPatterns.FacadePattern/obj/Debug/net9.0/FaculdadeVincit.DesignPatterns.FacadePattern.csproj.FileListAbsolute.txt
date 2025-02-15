@@ -1,0 +1,14 @@
+C:\Users\Informática\Downloads\facade_pattern\CSharp\FaculdadeVincit.DesignPatterns.FacadePattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.FacadePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Informática\Downloads\facade_pattern\CSharp\FaculdadeVincit.DesignPatterns.FacadePattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.FacadePattern.AssemblyInfoInputs.cache
+C:\Users\Informática\Downloads\facade_pattern\CSharp\FaculdadeVincit.DesignPatterns.FacadePattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.FacadePattern.AssemblyInfo.cs
+C:\Users\Informática\Downloads\facade_pattern\CSharp\FaculdadeVincit.DesignPatterns.FacadePattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.FacadePattern.csproj.CoreCompileInputs.cache
+C:\Users\Informática\Downloads\facade_pattern\CSharp\FaculdadeVincit.DesignPatterns.FacadePattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.FacadePattern.exe
+C:\Users\Informática\Downloads\facade_pattern\CSharp\FaculdadeVincit.DesignPatterns.FacadePattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.FacadePattern.deps.json
+C:\Users\Informática\Downloads\facade_pattern\CSharp\FaculdadeVincit.DesignPatterns.FacadePattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.FacadePattern.runtimeconfig.json
+C:\Users\Informática\Downloads\facade_pattern\CSharp\FaculdadeVincit.DesignPatterns.FacadePattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.FacadePattern.dll
+C:\Users\Informática\Downloads\facade_pattern\CSharp\FaculdadeVincit.DesignPatterns.FacadePattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.FacadePattern.pdb
+C:\Users\Informática\Downloads\facade_pattern\CSharp\FaculdadeVincit.DesignPatterns.FacadePattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.FacadePattern.dll
+C:\Users\Informática\Downloads\facade_pattern\CSharp\FaculdadeVincit.DesignPatterns.FacadePattern\obj\Debug\net9.0\refint\FaculdadeVincit.DesignPatterns.FacadePattern.dll
+C:\Users\Informática\Downloads\facade_pattern\CSharp\FaculdadeVincit.DesignPatterns.FacadePattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.FacadePattern.pdb
+C:\Users\Informática\Downloads\facade_pattern\CSharp\FaculdadeVincit.DesignPatterns.FacadePattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.FacadePattern.genruntimeconfig.cache
+C:\Users\Informática\Downloads\facade_pattern\CSharp\FaculdadeVincit.DesignPatterns.FacadePattern\obj\Debug\net9.0\ref\FaculdadeVincit.DesignPatterns.FacadePattern.dll

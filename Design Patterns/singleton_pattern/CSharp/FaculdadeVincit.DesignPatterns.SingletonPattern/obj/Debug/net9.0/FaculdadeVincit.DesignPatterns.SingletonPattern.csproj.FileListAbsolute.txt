@@ -1,0 +1,14 @@
+C:\Users\Informática\Downloads\singleton_pattern\CSharp\FaculdadeVincit.DesignPatterns.SingletonPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.SingletonPattern.exe
+C:\Users\Informática\Downloads\singleton_pattern\CSharp\FaculdadeVincit.DesignPatterns.SingletonPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.SingletonPattern.deps.json
+C:\Users\Informática\Downloads\singleton_pattern\CSharp\FaculdadeVincit.DesignPatterns.SingletonPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.SingletonPattern.runtimeconfig.json
+C:\Users\Informática\Downloads\singleton_pattern\CSharp\FaculdadeVincit.DesignPatterns.SingletonPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.SingletonPattern.dll
+C:\Users\Informática\Downloads\singleton_pattern\CSharp\FaculdadeVincit.DesignPatterns.SingletonPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.SingletonPattern.pdb
+C:\Users\Informática\Downloads\singleton_pattern\CSharp\FaculdadeVincit.DesignPatterns.SingletonPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Informática\Downloads\singleton_pattern\CSharp\FaculdadeVincit.DesignPatterns.SingletonPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.SingletonPattern.AssemblyInfoInputs.cache
+C:\Users\Informática\Downloads\singleton_pattern\CSharp\FaculdadeVincit.DesignPatterns.SingletonPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.SingletonPattern.AssemblyInfo.cs
+C:\Users\Informática\Downloads\singleton_pattern\CSharp\FaculdadeVincit.DesignPatterns.SingletonPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\Informática\Downloads\singleton_pattern\CSharp\FaculdadeVincit.DesignPatterns.SingletonPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.SingletonPattern.dll
+C:\Users\Informática\Downloads\singleton_pattern\CSharp\FaculdadeVincit.DesignPatterns.SingletonPattern\obj\Debug\net9.0\refint\FaculdadeVincit.DesignPatterns.SingletonPattern.dll
+C:\Users\Informática\Downloads\singleton_pattern\CSharp\FaculdadeVincit.DesignPatterns.SingletonPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.SingletonPattern.pdb
+C:\Users\Informática\Downloads\singleton_pattern\CSharp\FaculdadeVincit.DesignPatterns.SingletonPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.SingletonPattern.genruntimeconfig.cache
+C:\Users\Informática\Downloads\singleton_pattern\CSharp\FaculdadeVincit.DesignPatterns.SingletonPattern\obj\Debug\net9.0\ref\FaculdadeVincit.DesignPatterns.SingletonPattern.dll

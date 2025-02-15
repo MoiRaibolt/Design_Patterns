@@ -1,0 +1,14 @@
+C:\Users\Informática\Downloads\observer_pattern\CSharp\FaculdadeVincit.DesignPatterns.ObserverPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.ObserverPattern.exe
+C:\Users\Informática\Downloads\observer_pattern\CSharp\FaculdadeVincit.DesignPatterns.ObserverPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.ObserverPattern.deps.json
+C:\Users\Informática\Downloads\observer_pattern\CSharp\FaculdadeVincit.DesignPatterns.ObserverPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.ObserverPattern.runtimeconfig.json
+C:\Users\Informática\Downloads\observer_pattern\CSharp\FaculdadeVincit.DesignPatterns.ObserverPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.ObserverPattern.dll
+C:\Users\Informática\Downloads\observer_pattern\CSharp\FaculdadeVincit.DesignPatterns.ObserverPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.ObserverPattern.pdb
+C:\Users\Informática\Downloads\observer_pattern\CSharp\FaculdadeVincit.DesignPatterns.ObserverPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Informática\Downloads\observer_pattern\CSharp\FaculdadeVincit.DesignPatterns.ObserverPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\Informática\Downloads\observer_pattern\CSharp\FaculdadeVincit.DesignPatterns.ObserverPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.ObserverPattern.AssemblyInfo.cs
+C:\Users\Informática\Downloads\observer_pattern\CSharp\FaculdadeVincit.DesignPatterns.ObserverPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\Informática\Downloads\observer_pattern\CSharp\FaculdadeVincit.DesignPatterns.ObserverPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.ObserverPattern.dll
+C:\Users\Informática\Downloads\observer_pattern\CSharp\FaculdadeVincit.DesignPatterns.ObserverPattern\obj\Debug\net9.0\refint\FaculdadeVincit.DesignPatterns.ObserverPattern.dll
+C:\Users\Informática\Downloads\observer_pattern\CSharp\FaculdadeVincit.DesignPatterns.ObserverPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.ObserverPattern.pdb
+C:\Users\Informática\Downloads\observer_pattern\CSharp\FaculdadeVincit.DesignPatterns.ObserverPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.ObserverPattern.genruntimeconfig.cache
+C:\Users\Informática\Downloads\observer_pattern\CSharp\FaculdadeVincit.DesignPatterns.ObserverPattern\obj\Debug\net9.0\ref\FaculdadeVincit.DesignPatterns.ObserverPattern.dll

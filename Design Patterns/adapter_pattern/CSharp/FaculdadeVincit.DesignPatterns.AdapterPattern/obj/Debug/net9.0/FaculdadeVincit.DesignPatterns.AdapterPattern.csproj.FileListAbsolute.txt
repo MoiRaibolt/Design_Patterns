@@ -1,0 +1,17 @@
+C:\Users\Informática\Downloads\adapter_pattern\CSharp\FaculdadeVincit.DesignPatterns.AdapterPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.AdapterPattern.csproj.AssemblyReference.cache
+C:\Users\Informática\Downloads\adapter_pattern\CSharp\FaculdadeVincit.DesignPatterns.AdapterPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Informática\Downloads\adapter_pattern\CSharp\FaculdadeVincit.DesignPatterns.AdapterPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\Informática\Downloads\adapter_pattern\CSharp\FaculdadeVincit.DesignPatterns.AdapterPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.AdapterPattern.AssemblyInfo.cs
+C:\Users\Informática\Downloads\adapter_pattern\CSharp\FaculdadeVincit.DesignPatterns.AdapterPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\Informática\Downloads\adapter_pattern\CSharp\FaculdadeVincit.DesignPatterns.AdapterPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.AdapterPattern.exe
+C:\Users\Informática\Downloads\adapter_pattern\CSharp\FaculdadeVincit.DesignPatterns.AdapterPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.AdapterPattern.deps.json
+C:\Users\Informática\Downloads\adapter_pattern\CSharp\FaculdadeVincit.DesignPatterns.AdapterPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.AdapterPattern.runtimeconfig.json
+C:\Users\Informática\Downloads\adapter_pattern\CSharp\FaculdadeVincit.DesignPatterns.AdapterPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.AdapterPattern.dll
+C:\Users\Informática\Downloads\adapter_pattern\CSharp\FaculdadeVincit.DesignPatterns.AdapterPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.AdapterPattern.pdb
+C:\Users\Informática\Downloads\adapter_pattern\CSharp\FaculdadeVincit.DesignPatterns.AdapterPattern\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Informática\Downloads\adapter_pattern\CSharp\FaculdadeVincit.DesignPatterns.AdapterPattern\obj\Debug\net9.0\Faculdad.5ADEA14D.Up2Date
+C:\Users\Informática\Downloads\adapter_pattern\CSharp\FaculdadeVincit.DesignPatterns.AdapterPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.AdapterPattern.dll
+C:\Users\Informática\Downloads\adapter_pattern\CSharp\FaculdadeVincit.DesignPatterns.AdapterPattern\obj\Debug\net9.0\refint\FaculdadeVincit.DesignPatterns.AdapterPattern.dll
+C:\Users\Informática\Downloads\adapter_pattern\CSharp\FaculdadeVincit.DesignPatterns.AdapterPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.AdapterPattern.pdb
+C:\Users\Informática\Downloads\adapter_pattern\CSharp\FaculdadeVincit.DesignPatterns.AdapterPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.AdapterPattern.genruntimeconfig.cache
+C:\Users\Informática\Downloads\adapter_pattern\CSharp\FaculdadeVincit.DesignPatterns.AdapterPattern\obj\Debug\net9.0\ref\FaculdadeVincit.DesignPatterns.AdapterPattern.dll

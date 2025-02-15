@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ykhfiY23RLI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Informática\\Downloads\\adapter_pattern\\CSharp\\FaculdadeVincit.DesignPatterns.AdapterPattern\\FaculdadeVincit.DesignPatterns.AdapterPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Informática\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

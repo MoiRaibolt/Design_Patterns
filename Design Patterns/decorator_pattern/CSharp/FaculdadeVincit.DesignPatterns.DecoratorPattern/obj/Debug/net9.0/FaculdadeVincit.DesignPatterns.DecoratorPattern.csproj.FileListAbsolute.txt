@@ -1,0 +1,14 @@
+C:\Users\Informática\Downloads\decorator_pattern\CSharp\FaculdadeVincit.DesignPatterns.DecoratorPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.DecoratorPattern.exe
+C:\Users\Informática\Downloads\decorator_pattern\CSharp\FaculdadeVincit.DesignPatterns.DecoratorPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.DecoratorPattern.deps.json
+C:\Users\Informática\Downloads\decorator_pattern\CSharp\FaculdadeVincit.DesignPatterns.DecoratorPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.DecoratorPattern.runtimeconfig.json
+C:\Users\Informática\Downloads\decorator_pattern\CSharp\FaculdadeVincit.DesignPatterns.DecoratorPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.DecoratorPattern.dll
+C:\Users\Informática\Downloads\decorator_pattern\CSharp\FaculdadeVincit.DesignPatterns.DecoratorPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.DecoratorPattern.pdb
+C:\Users\Informática\Downloads\decorator_pattern\CSharp\FaculdadeVincit.DesignPatterns.DecoratorPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Informática\Downloads\decorator_pattern\CSharp\FaculdadeVincit.DesignPatterns.DecoratorPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.DecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\Informática\Downloads\decorator_pattern\CSharp\FaculdadeVincit.DesignPatterns.DecoratorPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.DecoratorPattern.AssemblyInfo.cs
+C:\Users\Informática\Downloads\decorator_pattern\CSharp\FaculdadeVincit.DesignPatterns.DecoratorPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\Informática\Downloads\decorator_pattern\CSharp\FaculdadeVincit.DesignPatterns.DecoratorPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.DecoratorPattern.dll
+C:\Users\Informática\Downloads\decorator_pattern\CSharp\FaculdadeVincit.DesignPatterns.DecoratorPattern\obj\Debug\net9.0\refint\FaculdadeVincit.DesignPatterns.DecoratorPattern.dll
+C:\Users\Informática\Downloads\decorator_pattern\CSharp\FaculdadeVincit.DesignPatterns.DecoratorPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.DecoratorPattern.pdb
+C:\Users\Informática\Downloads\decorator_pattern\CSharp\FaculdadeVincit.DesignPatterns.DecoratorPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.DecoratorPattern.genruntimeconfig.cache
+C:\Users\Informática\Downloads\decorator_pattern\CSharp\FaculdadeVincit.DesignPatterns.DecoratorPattern\obj\Debug\net9.0\ref\FaculdadeVincit.DesignPatterns.DecoratorPattern.dll
