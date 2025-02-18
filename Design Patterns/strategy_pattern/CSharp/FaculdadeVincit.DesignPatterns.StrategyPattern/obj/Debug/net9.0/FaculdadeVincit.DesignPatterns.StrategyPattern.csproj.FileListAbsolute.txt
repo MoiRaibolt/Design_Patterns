@@ -1,0 +1,14 @@
+C:\Users\Informática\Downloads\strategy_pattern\CSharp\FaculdadeVincit.DesignPatterns.StrategyPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.StrategyPattern.exe
+C:\Users\Informática\Downloads\strategy_pattern\CSharp\FaculdadeVincit.DesignPatterns.StrategyPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.StrategyPattern.deps.json
+C:\Users\Informática\Downloads\strategy_pattern\CSharp\FaculdadeVincit.DesignPatterns.StrategyPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.StrategyPattern.runtimeconfig.json
+C:\Users\Informática\Downloads\strategy_pattern\CSharp\FaculdadeVincit.DesignPatterns.StrategyPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.StrategyPattern.dll
+C:\Users\Informática\Downloads\strategy_pattern\CSharp\FaculdadeVincit.DesignPatterns.StrategyPattern\bin\Debug\net9.0\FaculdadeVincit.DesignPatterns.StrategyPattern.pdb
+C:\Users\Informática\Downloads\strategy_pattern\CSharp\FaculdadeVincit.DesignPatterns.StrategyPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Informática\Downloads\strategy_pattern\CSharp\FaculdadeVincit.DesignPatterns.StrategyPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\Informática\Downloads\strategy_pattern\CSharp\FaculdadeVincit.DesignPatterns.StrategyPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.StrategyPattern.AssemblyInfo.cs
+C:\Users\Informática\Downloads\strategy_pattern\CSharp\FaculdadeVincit.DesignPatterns.StrategyPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Informática\Downloads\strategy_pattern\CSharp\FaculdadeVincit.DesignPatterns.StrategyPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.StrategyPattern.dll
+C:\Users\Informática\Downloads\strategy_pattern\CSharp\FaculdadeVincit.DesignPatterns.StrategyPattern\obj\Debug\net9.0\refint\FaculdadeVincit.DesignPatterns.StrategyPattern.dll
+C:\Users\Informática\Downloads\strategy_pattern\CSharp\FaculdadeVincit.DesignPatterns.StrategyPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.StrategyPattern.pdb
+C:\Users\Informática\Downloads\strategy_pattern\CSharp\FaculdadeVincit.DesignPatterns.StrategyPattern\obj\Debug\net9.0\FaculdadeVincit.DesignPatterns.StrategyPattern.genruntimeconfig.cache
+C:\Users\Informática\Downloads\strategy_pattern\CSharp\FaculdadeVincit.DesignPatterns.StrategyPattern\obj\Debug\net9.0\ref\FaculdadeVincit.DesignPatterns.StrategyPattern.dll
